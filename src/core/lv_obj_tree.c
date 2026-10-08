@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】lv_obj_tree.c —— 对象树操作（B级导读）
+ * 子树遍历、删除、屏幕切换——LVGL 的"View 层级"管理。
+ */
+
 /**
  * @file lv_obj_tree.c
  *

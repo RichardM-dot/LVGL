@@ -1,3 +1,8 @@
+/*
+ * 【中文导读】lv_obj_style.c —— 样式系统（B级导读）
+ * 本地样式 vs 类样式 vs 主题；状态选择器(:pressed 等)；样式失效与重绘联动。
+ */
+
 /**
  * @file lv_obj_style.c
  *
